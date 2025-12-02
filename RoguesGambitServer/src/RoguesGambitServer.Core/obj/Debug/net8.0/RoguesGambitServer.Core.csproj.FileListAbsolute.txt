@@ -1,0 +1,11 @@
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\bin\Debug\net8.0\RoguesGambitServer.Core.deps.json
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\bin\Debug\net8.0\RoguesGambitServer.Core.dll
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\bin\Debug\net8.0\RoguesGambitServer.Core.pdb
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\RoguesGambitServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\RoguesGambitServer.Core.AssemblyInfoInputs.cache
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\RoguesGambitServer.Core.AssemblyInfo.cs
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\RoguesGambitServer.Core.csproj.CoreCompileInputs.cache
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\RoguesGambitServer.Core.dll
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\refint\RoguesGambitServer.Core.dll
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\RoguesGambitServer.Core.pdb
+C:\Code\RoguesGambitServer\ChessGame\RoguesGambitServer\src\RoguesGambitServer.Core\obj\Debug\net8.0\ref\RoguesGambitServer.Core.dll
